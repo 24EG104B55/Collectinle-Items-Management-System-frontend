@@ -1,0 +1,20 @@
+# Node & Build artifacts
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# Environment files
+.env.local
+.env.*.local
+
+# Editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
